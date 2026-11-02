@@ -6,17 +6,17 @@ A structured repository tracking my progress through the **NeetCode 150** curric
 
 ## 📊 Overall Progress
 
-![Overall Progress](https://img.shields.io/badge/Progress-0%2F150%20(0%25)-blue?style=for-the-badge&logo=github)
+![Overall Progress](https://img.shields.io/badge/Progress-1%2F150%20(.67%25)-blue?style=for-the-badge&logo=github)
 
 
-![Overall Progress](https://progress-bar.xyz/0?title=progress&width=500)
+![Overall Progress](https://progress-bar.xyz/1?scale=150&title=completed&width=500&suffix=%2F150)
 ---
 
 ## 🧩 Progress by Category
 
 | Category | Solved / Total | Status Bar |
 | :--- | :---: | :--- |
-| **Arrays & Hashing** | 0 / 9 | ![0%](https://progress-bar.xyz/0?width=150) |
+| **Arrays & Hashing** | 1 / 9 | ![11%](https://progress-bar.xyz/11?width=150) |
 | **Two Pointers** | 0 / 5 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Sliding Window** | 0 / 6 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Stack** | 0 / 7 | ![0%](https://progress-bar.xyz/0?width=150) |
@@ -25,6 +25,7 @@ A structured repository tracking my progress through the **NeetCode 150** curric
 | **Trees** | 0 / 15 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Tries** | 0 / 3 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Backtracking** | 0 / 9 | ![0%](https://progress-bar.xyz/0?width=150) |
+| **Heap / Priority Queue** | 0 / 7 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Graphs** | 0 / 13 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Advanced Graphs** | 0 / 6 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **1D Dynamic Programming** | 0 / 12 | ![0%](https://progress-bar.xyz/0?width=150) |
@@ -38,7 +39,7 @@ A structured repository tracking my progress through the **NeetCode 150** curric
 
 ## 🗓️ Commit Activity & Consistency
 
-![My Commits](https://img.shields.io/github/commits-since/MarkDGraham/data-structures-algorithms/HEAD?author=MarkDGraham&style=for-the-badge&logo=github&color=blue&label=MarkDGraham)
+![Total Commits](https://img.shields.io/github/commits-since/MarkDGraham/data-structures-algorithms/main?author=MarkDGraham&style=for-the-badge&logo=github&color=blue&label=Mark's%20Total%20Commits)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/MarkDGraham/data-structures-algorithms?style=for-the-badge&logo=github&color=blue&label=Mark's%20Commits)
 
 ---
