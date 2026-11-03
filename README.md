@@ -6,17 +6,17 @@ A structured repository tracking my progress through the **NeetCode 150** curric
 
 ## 📊 Overall Progress
 
-![Overall Progress](https://img.shields.io/badge/Progress-1%2F150%20(.67%25)-blue?style=for-the-badge&logo=github)
+![Overall Progress](https://img.shields.io/badge/Progress-2%2F150%20(1.33%25)-blue?style=for-the-badge&logo=github)
 
 
-![Overall Progress](https://progress-bar.xyz/1?scale=150&title=completed&width=500&suffix=%2F150)
+![Overall Progress](https://progress-bar.xyz/2?scale=150&title=completed&width=500&suffix=%2F150)
 ---
 
 ## 🧩 Progress by Category
 
 | Category | Solved / Total | Status Bar |
 | :--- | :---: | :--- |
-| **Arrays & Hashing** | 1 / 9 | ![11%](https://progress-bar.xyz/11?width=150) |
+| **Arrays & Hashing** | 2 / 9 | ![22%](https://progress-bar.xyz/22?width=150) |
 | **Two Pointers** | 0 / 5 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Sliding Window** | 0 / 6 | ![0%](https://progress-bar.xyz/0?width=150) |
 | **Stack** | 0 / 7 | ![0%](https://progress-bar.xyz/0?width=150) |
